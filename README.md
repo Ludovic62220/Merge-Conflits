@@ -1,3 +1,5 @@
+REMOTE
+
 # Merge-Conflits
 
 Si la tempête Bert est terminée, la Saône-et-Loire a été durement touchée.
